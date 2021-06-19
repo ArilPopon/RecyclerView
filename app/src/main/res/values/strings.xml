@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="boy">Boy</string>
+    <string name="_10_45am">10:45Am</string>
+    <string name="how_are_you">How are you?</string>
+    <string name="underscores">_______________________________________</string>
+    <string name="todo">TODO</string>
+</resources>
